@@ -83,6 +83,7 @@ namespace myBudget.Web
             DataRow[] drMenu_sub;
             try
             {
+                Session["UserGroupCode"] = "001";
                 string strCriteria = string.Empty;
                 string strMassege = string.Empty;
                 strCriteria = " And MenuParent = 0 ";

@@ -37,7 +37,7 @@ h3 {
 }
 
 .label_h {
-    color: #495E88;
+    color: #618C04;
     font-weight: bold;
     font-size: 9pt;
 }
@@ -390,7 +390,7 @@ a:hover {
 }
 
 a:link {
-    color: #495E88;
+    color: #2e8e1f;
 }
 
 a:visited {
@@ -403,9 +403,9 @@ a:active {
 
 
 .stGridHeader {
-    border-bottom: 1px solid rgb(174, 202, 240);
+    border-bottom: 1px solid #7bea19;
     padding: 0px 0px 0px 0px;
-    background-color: rgb(224, 237, 255);
+    background-color: #72f13f;
     white-space: nowrap;
     background-repeat: repeat-x;
     background-image: url('images/rpHeaderBackground.gif'); /* background-image: url('../../App_Themes/Aqua/Web/rpHeaderBackground.gif'); */
@@ -413,11 +413,11 @@ a:active {
 }
 
 .stGrid {
-    border: solid 1px #AECAF0;
+    border: solid 1px rgb(173, 230, 30);    
 }
 
 .table_h {
-    color: #495E88;
+    color: #618C04;
     font-weight: bold;
     font-size: 9pt;
     height: 22px;
@@ -425,9 +425,9 @@ a:active {
 
 .textbox {
     font-size: 13px;
-    background: #F2F9FF;
+    background: rgba(217, 250, 180, 0.63);
     font-family: "Tahoma";
-    border: 1px solid #AECAF0;
+    border: 1px solid #ade61e;
 }
 
 .textboxdis {

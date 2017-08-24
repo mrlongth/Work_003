@@ -175,6 +175,7 @@
     <Content Include="images\bg_right_2.png" />
     <Content Include="images\bottm_left_2.png" />
     <Content Include="images\bottm_right_2.png" />
+    <Content Include="images\controls\green_view.png" />
     <Content Include="images\controls\print.png" />
     <Content Include="images\controls\print_dis.png" />
     <Content Include="Web.config">
