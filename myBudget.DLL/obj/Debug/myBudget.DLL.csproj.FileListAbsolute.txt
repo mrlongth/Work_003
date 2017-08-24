@@ -1,0 +1,9 @@
+C:\MyWork\MJU\ButgetManagement\myButget.DLL\bin\Debug\myBudget.DLL.dll
+C:\MyWork\MJU\ButgetManagement\myButget.DLL\bin\Debug\myBudget.DLL.pdb
+C:\MyWork\MJU\ButgetManagement\myButget.DLL\obj\Debug\myBudget.DLL.csprojResolveAssemblyReference.cache
+C:\MyWork\MJU\ButgetManagement\myButget.DLL\obj\Debug\myBudget.DLL.dll
+C:\MyWork\MJU\ButgetManagement\myButget.DLL\obj\Debug\myBudget.DLL.pdb
+E:\WorkAll\myData\MyWork\MJU\ButgetManagement\myButget.DLL\bin\Debug\myBudget.DLL.dll
+E:\WorkAll\myData\MyWork\MJU\ButgetManagement\myButget.DLL\bin\Debug\myBudget.DLL.pdb
+E:\WorkAll\myData\MyWork\MJU\ButgetManagement\myButget.DLL\obj\Debug\myBudget.DLL.dll
+E:\WorkAll\myData\MyWork\MJU\ButgetManagement\myButget.DLL\obj\Debug\myBudget.DLL.pdb
